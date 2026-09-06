@@ -1,0 +1,6 @@
+Lista de estudos
+
+- Git e GitHub
+- Banco de Dados
+- Programação
+- Engenharia de Software
