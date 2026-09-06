@@ -4,3 +4,4 @@ Lista de estudos
 - Banco de Dados
 - Programação
 - Engenharia de Software
+- Lógica de Programação
