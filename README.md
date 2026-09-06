@@ -54,3 +54,11 @@ Organizar conteúdos e anotações de estudos de forma simples.
 
 Este projeto é um exemplo desenvolvido para fins acadêmicos.
 
+
+## Conteúdos estudados
+
+- Git e GitHub
+- Banco de Dados
+- Programação
+- Engenharia de Software
+
