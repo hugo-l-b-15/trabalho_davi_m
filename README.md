@@ -28,7 +28,7 @@ registrar as contribuições de cada integrante.
 
 \- Daniel Freire
 
-
+\- Henrique dos Santos
 
 \## Objetivo
 
