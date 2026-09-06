@@ -1,3 +1,9 @@
+Hugo:
 primeira versão do trabalho 
 
 criar tela inicial do sistema
+
+Ryan:
+Adiciona README do projeto
+
+Adiciona informações ao projeto
