@@ -55,7 +55,7 @@ Organizar conteúdos e anotações de estudos de forma simples.
 Este projeto é um exemplo desenvolvido para fins acadêmicos.
 
 
-## Conteúdos estudados
+## Conteúdos estudados no semestre
 
 - Git e GitHub
 - Banco de Dados
