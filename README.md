@@ -1,4 +1,4 @@
-\# Projeto de Estudos
+\# Projeto de Estudos 2º semestre ENG - SOFTWARE
 
 
 
@@ -48,14 +48,14 @@ Organizar conteúdos e anotações de estudos de forma simples.
 
 
 
-\## Como utilizar
+\## Como utilizar git
 
 
 
 Este projeto é um exemplo desenvolvido para fins acadêmicos.
 
 
-## Conteudos estudados 2 semestre
+## Conteúdos estudados no semestre
 
 - Git e GitHub
 - Banco de Dados
