@@ -5,3 +5,4 @@ Lista de estudos
 - Programação
 - Engenharia de Software
 - Lógica de Programação
+- Conteudos estudados no 2 semestre
