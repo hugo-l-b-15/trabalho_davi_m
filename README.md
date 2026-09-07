@@ -48,7 +48,7 @@ Organizar conteúdos e anotações de estudos de forma simples.
 
 
 
-\## Como utilizar
+\## Como utilizar git
 
 
 
